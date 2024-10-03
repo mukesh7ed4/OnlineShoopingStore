@@ -1,4 +1,7 @@
 ##Online Shopping Store
+
+
+#
   A comprehensive online shopping platform built using modern web technologies,
   offering users a seamless experience with a wide range of features such as browsing,
   adding products to the cart, liking items, and more. The project leverages React.js,
@@ -63,7 +66,7 @@ Ensure you have the following installed:
 Node.js (v12 or above)
 npm or yarn package manager
 Step-by-Step Guide:
-Clone the repository:git clone https://github.com/yourusername/online-shopping-store.git
+Clone the repository:git clone https://github.com/mukesh7ed4/OnlineShoopingStore.git
 
 Navigate to the project folder:
 cd online-shopping-store
